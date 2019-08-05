@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://matt123:matt123@devconnecter-xymhv.mongodb.net/MusicApp?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "musixmatchKey": "ad0a41dd454daeeda27bd888acf2201a"
+}
